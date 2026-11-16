@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://smartsolutionspr.com/sitemap.xml
