@@ -16,7 +16,7 @@ document.querySelector('#year').textContent = new Date().getFullYear();
 /* Formulario de contacto
    Pega aquí tu Access Key de https://web3forms.com (gratis, solo pide tu email).
    Mientras esté vacío, el formulario usa el método anterior (abre la app de correo). */
-const WEB3FORMS_KEY = '';
+const WEB3FORMS_KEY = '48be9326-471f-4752-bd0b-100c077fbf56';
 const CONTACT_EMAIL = 'carlos.santiago@smartsolutionspr.com';
 
 const form = document.querySelector('#contact-form');
